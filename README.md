@@ -5,7 +5,7 @@ Brightscript implementation of Google Analytics 4 (GA4), That is compatible with
 Copy the files inside "components" to your application.
 
 ## Usage
-Put the code bellow in the initialization of your MainScene.
+Put the code bellow in the start of your MainScene.
 
 ```brightscript
 m.global.AddField("analytics", "node", false)
