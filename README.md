@@ -1,5 +1,5 @@
 # roku-google-analytics-4
-Brightscript implementation of Google Analytics 4 (GA4), That is compatible with Firebase
+Brightscript implementation of Google Analytics 4 (GA4) That is compatible with Firebase
 
 ## Installation
 Copy the files inside "components" to your application.
