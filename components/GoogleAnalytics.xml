@@ -1,0 +1,20 @@
+<component name="GoogleAnalytics" extends="Task">
+  <interface>
+    <!-- Public -->
+    <function name="initialize" />
+    <function name="setConfig" />
+    <function name="setOptions" />
+    <function name="start" />
+    <function name="logEvent" />
+    <function name="logScreenView" />
+    <function name="setUserProperties" />
+    <function name="setCurrentScreen" />
+    <function name="setUserId" />
+    <function name="resetAnalyticsData" />
+
+    <field id="httpMethod" type="string" />
+    <field id="httpUrl" type="string" />
+  </interface>
+
+  <script type="text/brightscript" uri="GoogleAnalytics.brs" />
+</component>
